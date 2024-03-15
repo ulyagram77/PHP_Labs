@@ -1,2 +1,2 @@
  <?php
-  echo "lab1 started";
+  echo "lab1 sffsfs started";
