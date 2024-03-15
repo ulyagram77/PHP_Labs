@@ -1,2 +1,2 @@
 <?php
-echo "Test";
+echo "Test with ssh key";
